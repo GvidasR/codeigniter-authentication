@@ -12,7 +12,7 @@
                         <label for="passcode">Password</label>
                         <input name="passcode" type="password" class="form-control <?php echo form_error('passcode').form_error('check_login');?>" id="passcode" placeholder="Please enter your password">
                     </div>
-                    <button class="btn btn-primary col-xs-6 col-xs-offset-3" type="submit">Prisijungti</button>
+                    <button class="btn btn-primary col-xs-6 col-xs-offset-3" type="submit">Login</button>
                 </fieldset>
             </form>
          </div>
